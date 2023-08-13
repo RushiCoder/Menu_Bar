@@ -10,3 +10,10 @@ It's a Menu_Bar which is made by using html and css
 ## Prerequisites :
 * Time 😂
 * Live Server
+
+## <a href="">Live Demo</a>
+
+![Screenshot (48)](https://github.com/RushiCoder/Menu_Bar/assets/114005115/26637cd4-fe07-482f-ab0a-1ae39e9f1a79)
+
+# disclaimer :-
+it is only made for practice perpose
